@@ -1,5 +1,5 @@
 {
-	"ver": "V.DE-1250.2020.1.0",
+	"ver": "v2.01",
 	"names": [
 		["[FC] 01. Hold this Area!", "Am Ende deines Spielerzuges darf sich keine feindliche Einheit, ganz oder teilweise, innerhalb deiner Aufstellungszone befinden.\n- Mindestens 2 mal erfüllt = 1 Punkt\n- Mindestens 3 mal erfüllt = 3 Punkte\n- Mindestens 6 mal erfüllt = 5 Punkte"],
 		["[FC] 02. Bring them War!", "Am Anfang deines Spielerzuges befindet sich mindestens eine deiner Einheiten vollständig in der Aufstellungszone des Gegners.\n- Mindestens 2 mal erfüllt = 1 Punkt\n- Mindestens 3 mal erfüllt = 3 Punkte\n- Mindestens 5 mal erfüllt = 5 Punkte"],
