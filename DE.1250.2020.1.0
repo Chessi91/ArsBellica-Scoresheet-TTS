@@ -15,6 +15,6 @@
 		["[TP] 12. Conquer that Position!", "Halte am Ende einer beliebigen Runde Missionszielmarker in der feindlichen Hälfte.\n- Mindestens 2 mal erfüllt = 1 Punkt\n- Mindestens 5 mal erfüllt = 3 Punkte\n- Mindestens 7 mal erfüllt = 5 Punkte"],
 		["[TP] 13. Push them Back!", "Erobere am Ende eines beliebigen Spielerzuges Missionszielmarker, die zu Beginn des Zuges der Feind hielt.\n- Mindestens 1 mal erfüllt = 1 Punkt\n- Mindestens 3 mal erfüllt = 3 Punkte\n- Mindestens 5 mal erfüllt = 5 Punkte"],
 		["[TP] 14. Hold this Position!", "Wenn diese Mission gewählt wurde, aber nachdem die Aufstellungszone gewählt wurde, wähle einen Missionsziel- marker. Dieser Marker muss ununterbrochen, am Ende jedes Spielerzuges, von deinen Einheiten gehalten werden.\n- Mindestens 4 mal erfüllt = 1 Punkt\n- Mindestens 8 mal erfüllt = 3 Punkte\n- Mindestens 10 mal erfüllt = 5 Punkte""]
-    ["[TP] 15. Achieve Supremacy!", "Halte am Ende deines Spielerzuges mindestens 4 Missionszielmarker. \n- Mindestens 1 mal erfüllt = 1 Punkt\n- Mindestens 3 mal erfüllt = 3 Punkte\n- Mindestens 4 mal erfüllt = 5 Punkte"]
+    		["[TP] 15. Achieve Supremacy!", "Halte am Ende deines Spielerzuges mindestens 4 Missionszielmarker. \n- Mindestens 1 mal erfüllt = 1 Punkt\n- Mindestens 3 mal erfüllt = 3 Punkte\n- Mindestens 4 mal erfüllt = 5 Punkte"]
 	]
 }
